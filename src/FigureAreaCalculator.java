@@ -1,6 +1,6 @@
-public final class FigureCalculator {
+public final class FigureAreaCalculator {
 
-    private FigureCalculator() {
+    private FigureAreaCalculator() {
 
     }
 
